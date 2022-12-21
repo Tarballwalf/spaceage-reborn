@@ -13,7 +13,7 @@ Hopefully by the time this project is planned on release (`June of 2023`) the "c
 ### Phase 1: Client
 
 - [x] Optimization mods
-- [ ] Custom assets
+- [ ] Basic custom assets
   - [ ] Alpha Relese
 - [ ] File hosting and Technic page
 - [ ] World generation mods
@@ -21,6 +21,7 @@ Hopefully by the time this project is planned on release (`June of 2023`) the "c
 - [ ] Main mods (aka also present in old release)
 - [ ] New mods/features
   - [ ] Beta Release
+- [ ] Full custom assets
 - [ ] Optimizing again
 - [ ] Testing
 
