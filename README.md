@@ -6,22 +6,24 @@ Development of the codename spaceage modpack.
 
 ### Phase 1: Client
 
-- [] Optimization mods
-  - [] Alpha Relese
-- [] Feature mods
-- [] Optimizing again
-- [] Custom assets
-- [] Testing
-- [] File hosting and Technic page
+- [x] Optimization mods
+  - [ ] Alpha Relese
+- [ ] File hosting and Technic page
+- [ ] World generation mods
+- [ ] Feature mods
+- [ ] Optimizing again
+- [ ] Custom assets
+- [ ] Testing
 
 ### Phase 2: Server
 
-- [] Optimization
-- [] Hardware
-  - [] Docker setup
-  - [] Dynmap with SQL database
-- [] Testing
+- [ ] Optimization mods
+- [ ] Importing modpack
+- [ ] Hardware
+  - [ ] Docker setup
+  - [ ] Dynmap with SQL database
+- [ ] Testing
 
 ### Phase 3: Release
 
-- [] Public release (Client&Server)
+- [ ] Public release (Client&Server)
