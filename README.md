@@ -36,5 +36,6 @@ Hopefully by the time this project is planned on release (`June of 2023`) the "c
 
 ### Phase 3: Release
 
+- [ ] \(Optional) Move to Nextcloud instance
 - [ ] Cleanup
 - [ ] Public release (Client&Server)
