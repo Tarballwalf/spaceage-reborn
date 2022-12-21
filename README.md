@@ -15,7 +15,7 @@ Hopefully by the time this project is planned on release (`June of 2023`) the "c
 - [x] Optimization mods
 - [x] Basic custom assets
 - [x] File hosting and Technic page
-  - [ ] Alpha Relese
+  - [x] Alpha Relese
 - [ ] World generation mods
 - [ ] Quality of life mods
 - [ ] Main mods (aka also present in old release)
