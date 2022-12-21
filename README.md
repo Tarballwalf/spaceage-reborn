@@ -1,6 +1,6 @@
 # Spaceage-Reborn
 
-Development of the `codename spaceage` modpack.
+Development of the `codename spaceage-reborn` modpack.
 
 Sadly due to GalacticCraft not being ready for 1.16.5, along with no ETA available, modpack will still be based around the 1.12.2 version of the game.
 
