@@ -1,0 +1,183 @@
+{
+    "images":
+    {       
+        "logo":
+        {
+            "image" : "modpack:textures/logo-alpha.png",
+            "posX" : -200,
+            "posY" : 0,
+            "width" : 218,
+            "height" : 110,
+            "alignment" : "top_right"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "normalTextColor" : 12303291,
+            "hoverTextColor" : 3367410,
+        	"texture" : "modpack:textures/btn2.png",
+            "posX" : -120,
+            "posY" : -24,
+            "width" : 115,
+            "height" : 20,
+            "imageWidth" : 100,
+            "imageHeight" : 50,
+            "alignment" : "right_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3367410,
+			"texture" : "modpack:textures/btn2.png",
+            "posX" : -120,
+            "posY" : -48,
+            "width" : 115,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+            "alignment" : "right_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods #modsloaded#/#modsactive#",
+			"normalTextColor" : 6710886,
+            "hoverTextColor" : 3367410,
+            "texture" : "modpack:textures/btn2.png",
+            "posX" : -120,
+            "posY" : 58,
+            "width" : 115,
+            "height" : 20,
+			"imageWidth" : 100,
+            "imageHeight" : 50,
+            "alignment" : "right_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3367410,
+			"texture" : "modpack:textures/btn2.png",
+            "posX" : -120,
+            "posY" : -0,
+            "width" : 115,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,
+			"alignment" : "right_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "normalTextColor" : 16729156,
+            "hoverTextColor" : 14483456,
+            "texture" : "modpack:textures/btn2.png",
+            "posX" : -120,
+            "posY" : 84,
+            "width" : 115,
+            "height" : 20,
+            "imageWidth" : 100,
+			"imageHeight" : 50,
+            "alignment" : "right_center",
+            "hoverText" : "die",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : 2,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "modpack:textures/btn2.png",
+            "alignment" : "top_left",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Forge #forgeversion# for Minecraft #mcversion#",
+            "hoverText" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+        
+		"packTxt":
+        {
+            "text" : "GalacticAge | Reborn",
+            "hoverText" : "Music by \"Little Red Chuch\" and \"MASTER BOOT RECORD\" - Soundcloud ",
+            "posX" : 2,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+        
+        "gitRepo":
+        {
+            "text" : "GitHub Repository",
+            "hoverText" : "*boop*",
+            "posX" : 2,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://github.com/Tarballwalf/spaceage-reborn/"
+            }
+        }
+    },
+       
+    "other":
+    {
+        "background":
+        {
+            "image" : "modpack:textures/bg.png",
+            "mode" : "fill"
+        }
+    }
+}
