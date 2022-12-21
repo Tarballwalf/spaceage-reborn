@@ -1,24 +1,15 @@
-# Spaceage-Reborn
+# Spaceage-Reborn-Server
 
-Development of the codename spaceage modpack.
+Everything needed to run a server with this pack.
 
 ## Roadmap
 
-### Phase 1: Client
-- [] Optimization mods
-  - [] Alpha Relese
-- [] Feature mods
-- [] Optimizing again
-- [] Custom assets
-- [] Testing
-- [] File hosting and Technic page
+### Phase 1: Game server
 
-### Phase 2: Server
-- [] Optimization
-- [] Hardware
-    - [] Docker setup
-    - [] Dynmap with SQL database
-- [] Testing
+- [ ] Optimization mods
+- [ ] Importing pre-existing, removing client sided only mods
 
-### Phase 3: Release
-- [] Public release (Client&Server)
+### Phase 2: Hardware
+
+- [ ] Docker setup
+- [ ] Dynmap with SQL database
