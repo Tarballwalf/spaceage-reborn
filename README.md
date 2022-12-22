@@ -22,7 +22,7 @@ Hopefully by the time this project is planned on release (`June of 2023`) the "c
 - [ ] New mods/features
   - [ ] Beta Release
 - [ ] Full custom assets
-- [ ] Optimizing again
+- [ ] Optimizing and configs
 - [ ] Testing
 
 ### Phase 2: Server
