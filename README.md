@@ -19,6 +19,7 @@ Hopefully by the time this project is planned on release (`June of 2023`) the "c
 - [x] World generation mods
 - [x] Quality of life mods
 - [ ] Main mods (aka present in old release)
+  - [ ] Last alpha release
 - [ ] New mods/features
 - [ ] Basic configs
   - [ ] Beta Release
