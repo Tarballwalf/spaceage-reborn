@@ -1,3 +1,5 @@
+ae2stuff-0.7.0.4-mc1.12.2.jar
+AE2WTLib-1.12.2-1.0.34.jar
 aether-1.12.2-v1.5.3.2.jar
 AIImprovements-1.12-0.0.1b3.jar
 AmbientSounds_v3.1.5_mc1.12.2.jar
@@ -9,6 +11,7 @@ Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b97.jar
 AromaBackup-1.12.2-3.0.0.0.b135.jar
 AutoRegLib-1.3-32.jar
 Baubles-1.12-1.5.2.jar
+bdlib-1.14.3.12-mc1.12.2.jar
 BedBugs-1.12-1.0.1.jar
 betterbiomeblend-1.12.2-1.1.7-forge.jar
 bettercaves-1.12.2-2.0.4.jar
@@ -20,18 +23,22 @@ BiomesYouGo1.7.1.jar
 Botania r1.10-364.4.jar
 ChestTransporter-1.12.2-2.8.8.jar
 Clumps-3.1.2.jar
+CodeChickenLib-1.12.2-3.2.3.358-universal.jar
 Controlling-3.0.10.jar
 coroutil-1.12.1-1.2.37.jar
 CreativeCore_v1.10.62_mc1.12.2.jar
 CustomMainMenu-MC1.12.2-2.0.9.1.jar
 CustomWindowTitle-Legacy-v1.0.0.jar
-DynamicSurroundings-1.12.2-3.4.10.2.jar
+DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar
 DynamicTrees-1.12.2-0.9.29.jar
 DynamicTreesBOP-1.12.2-1.5.1.jar
 DynamicTreesQuark-1.12.2-1.0.6.jar
 DynamicTreesTheAether-1.12.2-1.0.14.jar
 dynamictreesTheTwilightForest-1.12.2-1.2.3.jar
-DynamicTreesTinkersConstruct-1.12.2-1.2.7.jar.disabled
+DynamicTreesTinkersConstruct-1.12.2-1.2.7.jar
+EnderCore-1.12.2-0.5.76.jar
+EnderIO-1.12.2-5.3.70.jar
+EnderStorage-1.12.2-2.4.6.137-universal.jar
 EntityCulling-1.12.2-6.2.5.jar
 ExtraPlanets-1.12.2-0.7.4.jar
 FastFurnace-1.12.2-1.3.1.jar
@@ -46,6 +53,7 @@ ironfurnaces-1.3.5.jar
 jei_1.12.2-4.16.1.302.jar
 journeymap-1.12.2-5.7.1.jar
 lumen-Beta 0.4.1.jar
+Mantle-1.12-1.3.3.55.jar
 MJRLegendsLib-1.12.2-1.2.1.jar
 modlist.txt
 MorePlayerModels_1.12.2-(05Dec19).jar
@@ -53,6 +61,7 @@ MouseTweaks-2.10.1-mc1.12.2.jar
 Nothirium-1.12.2-0.1.10-beta.jar.disabled
 OptiFine_1.12.2_HD_U_G5.jar
 OreLib-1.12.2-3.6.0.1.jar
+p455w0rdslib-1.12.2-2.3.161.jar
 particleculling-1.12.2-v1.3.1.jar
 phosphor-forge-mc1.12.2-0.2.7-universal.jar
 Quark-r1.6-179.jar
@@ -62,10 +71,14 @@ ResourceLoader-MC1.12.1-1.5.3.jar
 SereneSeasons-1.12.2-1.2.18-universal.jar
 SoundFilters-0.12.1_for_1.12.jar
 Surge-1.12.2-2.0.79.jar
+TConstruct-1.12.2-2.13.0.183.jar
 TexFix V-1.12-4.0.jar
 twilightforest-1.12.2-3.11.1021-universal.jar
 VanillaFix-1.0.10-150.jar
 weather2-1.12.1-2.6.12.jar
-WorldEdit-CUI-FE3-1.12.2-3.0.9.jar.disabled
+WirelessCraftingTerminal-1.12.2-3.12.97.jar
+WirelessFluidTerminal-1.12.2-1.0.4.jar
+WirelessInterfaceTerminal-1.12.2-1.0.2.jar
+WirelessPatternTerminal-1.12.2-1.0.3.jar
 worldedit-forge-mc1.12.2-6.1.10-dist.jar
 XL-Food-Mod-1.12.2-1.9.2.jar
