@@ -9,7 +9,7 @@ Meanwhile I created a separate branch from the main `client` slowly working on t
 ## Roadmap
 
 - [x] Basic optimization mods
-  - [ ] Really basic release
+  - [x] Really basic release
 - [ ] Update mods to 1.16.5
   - [ ] Modpack has all the mods in place
   - [ ] Alpha release
