@@ -2,7 +2,7 @@
 
 Development of the `codename spaceage-reborn` modpack.
 
-[Technic page](https://www.technicpack.net/modpack/galacticage-reborn.1950730) | 6-8GB of ram required.
+[Technic page](https://www.technicpack.net/modpack/galacticage-reborn.1950730) | 6-8GB RAM required.
 
 Sadly due to GalacticCraft not being ready for 1.16.5, along with no ETA available, modpack will still be based around the 1.12.2 version of the game.
 
@@ -20,7 +20,7 @@ Hopefully by the time this project is planned on release (`June of 2023`) the "c
   - [x] Alpha Release
 - [x] World generation mods
 - [x] Quality of life mods
-- [ ] Main mods (aka present in old release)
+- [x] Main mods (aka present in old release)
   - [ ] Last alpha release
 - [ ] New mods/features
 - [ ] Basic configs
