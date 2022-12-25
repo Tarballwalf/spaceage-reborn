@@ -32,7 +32,7 @@ Hopefully by the time this project is planned on release (`June of 2023`) the "c
 
 ### Phase 2: Server
 
-- [ ] Optimization mods
+- [x] Optimization mods
 - [ ] Importing pre-existing mods, removing client sided only mods
 - [ ] Hardware
   - [ ] Docker setup
