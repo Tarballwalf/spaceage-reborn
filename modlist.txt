@@ -1,3 +1,4 @@
+1.12.2
 ActuallyAdditions-1.12.2-r152.jar
 additionalpipes-6.0.0.8.jar
 ae2stuff-0.7.0.4-mc1.12.2.jar
@@ -64,7 +65,6 @@ DefaultOptions_1.12.2-9.2.8.jar
 DoggyTalents-1.12.2-1.15.1.6.jar
 Draconic-Evolution-1.12.2-2.3.28.354-universal.jar
 DynamicSurroundings-1.12.2-3.6.3.jar
-DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar.disabled
 DynamicTrees-1.12.2-0.9.29.jar
 DynamicTreesBOP-1.12.2-1.5.1.jar
 DynamicTreesIntegratedDynamics-1.12.2-1.0.4.jar
@@ -116,7 +116,10 @@ libnine-1.12.2-1.2.1.jar
 lost-aether-content-1.12.2-1.0.2.jar
 Mantle-1.12-1.3.3.55.jar
 mcjtylib-1.12-3.5.4.jar
+memory_repo
+millenaire
 millenaire-8.1.2.jar
+millenaire-custom
 Millénaire Extended-1.12.2-1.3.3.jar
 Millénaire Extended - Byzantine-1.12.2-1.0.0.jar
 Millénaire Extended - Indians-1.12.2-1.0.0.jar
@@ -163,6 +166,7 @@ ProjectRed-1.12.2-4.9.4.120-lighting.jar
 ProjectRed-1.12.2-4.9.4.120-mechanical.jar
 ProjectRed-1.12.2-4.9.4.120-world.jar
 Quark-r1.6-179.jar
+railcraft
 railcraft-12.1.0-beta-8.jar
 railcraft-tweaker-0.2.0.jar
 randompatches-1.12.2-1.22.1.10.jar
@@ -173,6 +177,7 @@ ReSound-1.12.2-1r.jar
 ResourceLoader-MC1.12.1-1.5.3.jar
 rftools-1.12-7.73.jar
 SereneSeasons-1.12.2-1.2.18-universal.jar
+ServerTabInfo-1.12.2-1.2.6.jar
 shetiphiancore-1.12.0-3.5.9.jar
 SolarFluxAdditions-1.12.2-12.3.2.jar
 SolarFluxReborn-1.12.2-12.4.11.jar
