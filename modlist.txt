@@ -1,0 +1,15 @@
+AIImprovements-1.12-0.0.1b3.jar
+appliedenergistics2-rv6-stable-7-extended_life-v0.54.16.jar
+BetterFps-1.4.8.jar
+Clumps-3.1.2.jar
+FastFurnace-1.12.2-1.3.1.jar
+FastWorkbench-1.12.2-1.7.4.jar
+foamfix-0.10.15-1.12.2.jar
+JourneyMapServer1.01_Bukkit_MC1.9.jar
+modlist.txt
+MultithreadedNoise-1.12.2-0.0.2.jar
+performant-1.11.jar
+Stackie-1.12.2-1.6.0.48-universal.jar
+Surge-1.12.2-2.0.77.jar
+Tiquality-FAT-1.12.2-GAMMA-1.8.1-124.jar
+VanillaFix-1.0.10-150.jar
