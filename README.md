@@ -6,7 +6,7 @@ Everything needed to run a server with this pack.
 
 ### Phase 1: Game server
 
-- [ ] Optimization mods
+- [x] Optimization mods
 - [ ] Importing pre-existing, removing client sided only mods
 
 ### Phase 2: Hardware
