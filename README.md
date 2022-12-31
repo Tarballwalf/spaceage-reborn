@@ -25,7 +25,7 @@ Hopefully by the time this project is planned on release (`June of 2023`) the "c
 - [x] New mods/features
 - [x] Cleanup
 - [x] Basic configs
-  - [ ] Beta Release
+  - [x] Beta Release
 - [ ] Full custom assets
 - [ ] Optimizing and configs
 - [ ] Testing
