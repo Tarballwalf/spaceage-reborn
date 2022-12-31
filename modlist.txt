@@ -1,4 +1,3 @@
-1.12.2
 ActuallyAdditions-1.12.2-r152.jar
 additionalpipes-6.0.0.8.jar
 ae2stuff-0.7.0.4-mc1.12.2.jar
@@ -12,11 +11,12 @@ alib-1.0.12.jar
 AmbientSounds_v3.1.5_mc1.12.2.jar
 antighost-1.12-forge14.21.1.2387-1.1.1.jar
 AppleSkin-mc1.12-1.0.14.jar
-appliedenergistics2-rv6-stable-7-extended_life-v0.54.16.jar
+appliedenergistics2-rv6-stable-7-extended_life-v0.54.17.jar
 Armourers-Workshop-1.12.2-0.51.0.jar
 Aroma1997Core-1.12.2-2.0.0.2.b167.jar
 Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b97.jar
 AromaBackup-1.12.2-3.0.0.0.b135.jar
+AttributeFix-1.12.2-1.0.10.jar
 AutoRegLib-1.3-32.jar
 Baubles-1.12-1.5.2.jar
 bdlib-1.14.3.12-mc1.12.2.jar
@@ -116,10 +116,7 @@ libnine-1.12.2-1.2.1.jar
 lost-aether-content-1.12.2-1.0.2.jar
 Mantle-1.12-1.3.3.55.jar
 mcjtylib-1.12-3.5.4.jar
-memory_repo
-millenaire
 millenaire-8.1.2.jar
-millenaire-custom
 Millénaire Extended-1.12.2-1.3.3.jar
 Millénaire Extended - Byzantine-1.12.2-1.0.0.jar
 Millénaire Extended - Indians-1.12.2-1.0.0.jar
@@ -166,7 +163,6 @@ ProjectRed-1.12.2-4.9.4.120-lighting.jar
 ProjectRed-1.12.2-4.9.4.120-mechanical.jar
 ProjectRed-1.12.2-4.9.4.120-world.jar
 Quark-r1.6-179.jar
-railcraft
 railcraft-12.1.0-beta-8.jar
 railcraft-tweaker-0.2.0.jar
 randompatches-1.12.2-1.22.1.10.jar
